@@ -6,7 +6,7 @@ Graphical representation of major classes in Brown's Computer Science department
 [.drawio version](https://github.com/Bokai-Bi/Brown-CS-Course-Flowchart/releases/download/release/BCSCF.v1.01.drawio)  
 [colorless .drawio version](https://github.com/Bokai-Bi/Brown-CS-Course-Flowchart/releases/download/release/BCSCF.colorless.v1.01.drawio)  
   
-You can open the PNG files with https://app.diagrams.net/ to search courses with CTRL-F.  
+You can open the PNG files with https://app.diagrams.net/ to search for courses using text with CTRL-F.  
 Colorless versions are available to plan out semesters, pathways, etc. by coloring classes in yourself.  
   
 .drawio files are also available for those who want them.  
